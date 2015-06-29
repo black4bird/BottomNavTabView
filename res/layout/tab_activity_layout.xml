@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tab="http://schemas.android.com/apk/res/com.example.bottomtabview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.example.bottomtabview.BottomTabView
+        android:id="@+id/tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        tab:tab_bg="@drawable/item_selector"
+        tab:width_img="45dp" />
+
+</RelativeLayout>

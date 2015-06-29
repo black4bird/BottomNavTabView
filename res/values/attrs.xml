@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BottomTabView">
+        <attr name="internal_padding" format="dimension" />
+        <attr name="width_img" format="dimension" />
+        <attr name="height_img" format="dimension" />
+        <attr name="title_text_size" format="dimension" />
+        <attr name="title_text_color" format="reference|color" />
+        <attr name="group_padding" format="dimension" />
+        <attr name="tab_bg" format="reference|color" />
+    </declare-styleable>
+
+</resources>

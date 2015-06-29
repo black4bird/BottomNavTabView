@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="drop_down_to_refresh_list_header_font_color">#424952</color>
+    <color name="black">#ff000000</color>
+    <color name="gray">#ff666666</color>
+    <color name="white_gray">#cbcbcb</color>
+    <color name="white">#ffffffff</color>
+    <color name="orange">#fff15613</color>
+    <color name="background">#ffffffff</color>
+    <color name="text_hint">#ffcccccc</color>
+    <color name="white_aplha_50">#7fffffff</color>
+    <color name="black_aplha_50">#7f000000</color>
+    <color name="bg_manager_search">#7f000000</color>
+    <color name="bg_manager">#eff3f6</color>
+    <!-- view page indicator -->
+     <color name="vpi__background_holo_dark">#ff000000</color>
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+    <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color>
+    <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color>
+    <color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color>
+    
+</resources>
